@@ -28,6 +28,8 @@ Abrazos y **el que no marcha es Piñera**.
 
 * Históricamente, Chile es uno de los países más desiguales del mundo, y disputa con México el triste último lugar de los países OCDE [REF](https://data.oecd.org/chart/5Ivh).
 
+* Entre los años 2014 - 2017, Chile esta en el 2 peor Producto Interno Bruto de los países OCDE [REF](https://data.oecd.org/chart/5IL8). 
+
 * En la medida del año 2017 del Índice de Desarrollo Humano, Chile ocupa el lugar 44 a nivel mundial, el 4 peor en los países OCDE [REF](http://hdr.undp.org/en/data) [Resumen de Chile](http://hdr.undp.org/en/countries/profiles/CHL).
 
 * Al año 2019, el salario de los profesores chilenos está bajo la media de los países OCDE [REF](https://data.oecd.org/teachers/teachers-salaries.htm), mientras que estamos entre los 5 países con mayor cantidad de estudiantes por educador [REF](https://data.oecd.org/chart/5IGj).
