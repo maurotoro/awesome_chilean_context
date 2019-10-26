@@ -20,7 +20,7 @@ Abrazos y **el que no marcha es Piñera**.
 
 * Durante el período 1990-2018 El crecimiento del Ingreso Nacional Bruto per capita a crecido a una tasa de 377 USD por año, mientras el sueldo mínimo lo ha hecho a 8 [REF](https://data.worldbank.org/country/chile). [1]
 
-* Al 2017 33% de la riqueza está en manos del 1% de la población [REF](http://www.fundacionsol.cl/2017/07/banco-central-quintil-mas-rico-concentra-72-la-riqueza-chile/)
+* Al 2017 33% de la riqueza está en manos del 1% de la población [REF](http://www.fundacionsol.cl/2017/07/banco-central-quintil-mas-rico-concentra-72-la-riqueza-chile/).
 
 * El año 2018, Bahamas, Bermuda, Islas Caimán, Islas Vírgenes Británicas y Panamá, países conocidos como paraísos fiscales, representan el 33% del stock de la inversión extranjera directa activa, la suma acumulada del dinero que sale de Chile e ingresa al país de destino [REF](https://si3.bcentral.cl/estadisticas/Principal1/Estudios/SE/BDP/IED.html).
 
@@ -28,11 +28,11 @@ Abrazos y **el que no marcha es Piñera**.
 
 * Históricamente, Chile es uno de los países más desiguales del mundo, y disputa con México el triste último lugar de los países OCDE [REF](https://data.oecd.org/chart/5Ivh).
 
-* Entre los años 2014 - 2017, Chile esta en el 2 peor Producto Interno Bruto de los países OCDE [REF](https://data.oecd.org/chart/5IL8). 
+* Entre los años 2014 - 2017, Chile esta en el 2 peor Producto Interno Bruto de los países OCDE [REF](https://data.oecd.org/chart/5IL8).
 
-* En la medida del año 2017 del Índice de Desarrollo Humano, Chile ocupa el lugar 44 a nivel mundial, el 4 peor en los países OCDE [REF](http://hdr.undp.org/en/data) [Resumen de Chile](http://hdr.undp.org/en/countries/profiles/CHL).
+* En la medida del año 2017 del Índice de Desarrollo Humano, Chile ocupa el lugar 44 a nivel mundial, el 4 peor en los países OCDE [REF](http://hdr.undp.org/en/data), [resumen de Chile](http://hdr.undp.org/en/countries/profiles/CHL).
 
-* Al año 2019, el salario de los profesores chilenos está bajo la media de los países OCDE [REF](https://data.oecd.org/teachers/teachers-salaries.htm), mientras que estamos entre los 5 países con mayor cantidad de estudiantes por educador [REF](https://data.oecd.org/chart/5IGj).
+* Al año 2018, el salario de los profesores chilenos está bajo la media de los países OCDE [REF](https://data.oecd.org/teachers/teachers-salaries.htm), mientras que estamos entre los 5 países con mayor cantidad de estudiantes por educador [REF](https://data.oecd.org/chart/5IGj).
 
 * En las pruebas PISA 2015, Chile esta en el tercer lugar de peor desempeño en matemáticas [REF](https://data.oecd.org/chart/5IGk), el 4to en ciencias [REF](https://data.oecd.org/chart/5IGm) y en el 5to en lectura [REF](https://data.oecd.org/chart/5IKW) dentro de los 35 países OCDE.
 
