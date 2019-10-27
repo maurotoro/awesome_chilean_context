@@ -1,6 +1,10 @@
 # A little bit of context for the discontent
 
-Since a while I've been making a list with examples showing the roots of the current problem in Chile. I'm pasting it here, I hope that people could help me sending more data and their sources. Press and wikipedia does not count, only when it's about judicial cases or similar.
+With all the people who would like to help, we've been making a list with examples showing the roots of the current problem in Chile.
+
+I'm pasting it here, I hope that people could help me sending more data and their sources.
+
+### Press doesn't work, unless it's a report from a research centre,and wikipedia only when it's about judicial cases, wikimedia or similar.
 
 
 Hugs and **el que no marcha es Piñera**.
@@ -8,9 +12,13 @@ Hugs and **el que no marcha es Piñera**.
 
 * Until September 2019 the poverty line for a four-member family is $436,000 (CLP) [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/layout/doc/ipc/Valor_CBA_y_LPs_19.09.pdf), while almost 50% of the population earning less than $400,000 [REF](http://www.fundacionsol.cl/estudios/losverdaderos-salarios-de-chile-2018/).
 
-* Let's calculate the earnings of a cis-heterosexual family with 2 children, in which both parents work and earn the populations' median salaries of  last August 2019. The mother would earn $343,234 (CLP) and the father would earn $411,100; it is so that an average vagina is paid  16.5% less than an average penis. The total family income would be $754,334 CLP, which puts them  $316000 above the minimal wage ($301,000) [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
+ * Let's calculate the earnings of a cis-hetero family with 2 children, in which both parents work and earn the populations' median salaries of  last August 2019. The mother would earn $343,234 (CLP) and the father would earn $411,100; it is so that an average vagina is paid  16.5% less than an average penis. The total family income would be $754,334 CLP, substracting the poverty line puts them $316000 above the current minimum wage ($301,000) [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
+
+* According to the CASEN survey from 2017, after spliting the population in deciles. Only since the 8th decile the average autonomous income per capita surpasses the current minimum wage [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/casen_2017.php).
 
 * Currently in 2019 the country's external debt is equal to the 67% of the GBP [REF](https://www.bcentral.cl/deuda-externa).
+
+* Within the countries in the OECD, Chile is the country with the highest obesity index [REF](https://data.oecd.org/chart/5ILm).
 
 * Mental health is a serious problem. In 2007 the WHO estimated that 31% of the population have had a psychiatric illness, however it is also estimated that about 60% of them was not treated [REF](https://www.who.int/mental_health/policy/country/chile/en/).
 
@@ -39,6 +47,9 @@ Hugs and **el que no marcha es Piñera**.
 * In 2015 the results of the PISA tests in science are highly correlated with the student's socio-economic status, when compared against other countries. We rank 9th for the highest distance between rich and poor students [REF](http://gpseducation.oecd.org/CountryProfile?primaryCountry=CHL&treshold=10&topic=PI).
 
 * In 2015 PISA tests show that Chileans schools have one the highest correlations between socio-economic status among students. That means that in the classroom students have basically the same socio-economic status. It can be also said that Chile is one of the countries with more social segretation in schools, ranking as one of the worse 3. [REF](http://gpseducation.oecd.org/CountryProfile?primaryCountry=CHL&treshold=10&topic=PI).
+
+* Chile is the only country in the world that has private ownership of it's water. The *water code* (Código de Aguas), impossed under dictatorship, gives to owners [...]
+
 
 ——————
 
