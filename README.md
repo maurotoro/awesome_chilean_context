@@ -8,10 +8,11 @@ Lo pegó acá y espero que puedan ayudarnos con más datos con sus respectivas f
 
 Abrazos
 
-## **El que no marcha es Piñera**.
+## El que no marcha es Piñera.
 
 ---
-# Contextualizando las movilizaciones:
+
+# **Contextualizando las movilizaciones**:
 
 
 * A septiembre del 2019, la linea de pobreza para una familia de 4 es de $436,000 (CLP) [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/layout/doc/ipc/Valor_CBA_y_LPs_19.09.pdf), mientras que casi el 50% de la población gana menos de $400,000 [REF](http://www.fundacionsol.cl/estudios/losverdaderos-salarios-de-chile-2018/).
