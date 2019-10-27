@@ -6,7 +6,8 @@ Abrazos y **el que no marcha es Piñera**.
 
 * A septiembre del 2019, la linea de pobreza para una familia de 4 es de $436,000 (CLP) [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/layout/doc/ipc/Valor_CBA_y_LPs_19.09.pdf), mientras que casi el 50% de la población gana menos de $400,000 [REF](http://www.fundacionsol.cl/estudios/losverdaderos-salarios-de-chile-2018/).
 
-* Una familia CIS heterosexual con 2 hijos, donde madre y padre trabajan y ganan la mediana de ingresos a Agosto del 2019. Mamá ganaría $343,234 (CLP) y papá $411,100, la vagina media está pagada 16.5% menos que el pene medio. El total del ingreso familiar seria $754,334 CLP, que los pone $316000, poco más que un sueldo mînimo ($301,000) a esa fecha [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
+ * Tomando esto en cuenta, Una familia cis-hetero con 2 hijos, donde madre y padre trabajan y ganan la mediana de ingresos a Agosto del 2019. Mamá ganaría $343,234 (CLP) y papá $411,100, la vagina media está pagada 16.5% menos que el pene medio. El total del ingreso familiar seria $754,334 CLP, que los pone $316000, poco más que un sueldo mînimo ($301,000) a esa fecha [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
+
 
 * Según la encuesta CASEN 2017, al dividir a la población por deciles. Sólo desde el 8vo decil se supera el sueldo mínimo en la media del ingreso autónomo per cápita del hogar \\[REF](http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/casen_2017.php).
 
@@ -44,6 +45,20 @@ Abrazos y **el que no marcha es Piñera**.
 
 * En las pruebas PISA 2015, se muestra que las escuelas de Chile tienen uno de los niveles más altos de correlación socio-economica, las salas de clases tienen miembros del mismo nivel. Esto puede también decirse como Chile es uno de los paîses con mayor segregación social en las escuelas, ocupando el 3 peor lugar. [REF](http://gpseducation.oecd.org/CountryProfile?primaryCountry=CHL&treshold=10&topic=PI).
 
+* Chile es el único país en el mundo que tiene sus aguas privatizadas. El Código de Aguas de 1981, impuesto bajo dictadura militar, establece un propietario con derechos de uso, donde éste puede arrendar, comprar y vender los derechos como cualquier otra propiedad [REF](https://www.leychile.cl/Navegar?idNorma=5605)
+
+* Hasta año 2012, el 90% de los derechos de aprovechamiento de aguas consuntivas (no devuelven un caudal al río) se encuentran en manos de empresas mineras y agroexportadoras, mientras que prácticamente el 100% de los derechos de aprovechamiento de aguas no consuntivos (devuelven un caudal al río) se encuentra en manos de transnacionales como ENDESA [REF](https://ciperchile.cl/2012/02/17/la-privatizacion-de-las-aguas-en-chile-viola-los-derechos-humanos/)
+
+* Al año 2015, 110 cuencas del país se encuentran con una demanda comprometida superior a su recarga natural, y por consiguiente se encuentran con sobre otorgamiento de derechos de agua [REF](https://www.interior.gob.cl/media/2015/04/recursos_hidricos.pdf).
+
+* Para el año 2015 se vive una situación de escasez hídrica en 13 de las 15 regiones del país, en donde aproximadamente, 400.000 personas reciben agua potable por medio de camiones aljibes [REF](https://www.interior.gob.cl/media/2015/04/recursos_hidricos.pdf).
+
+* El INDH señala que de los 116 conflictos socioambientales existentes en Chile hasta el 2015, el 38% Chile son por causa del sector productivo de energía [REF](mapaconflictos.indh.cl).
+
+* Chile, al 2017, tenía una capacidad instalada de generación eléctrica de 22,045 MW, y a nivel nacional la demanda máxima no llega más allá de los 7,789 MW [REF](https://www.terram.cl/wp-content/uploads/2017/05/AnuarioCNE2016Finalweb.pdf), a pesar de eso, se contabiliza un total de 114 proyectos de generación eléctrica que actualmente se encuentran en construcción [REF](mapaconflictos.indh.cl).
+
+* Al año 2016, existen cinco zonas de sacrificio ambiental a lo largo del territorio nacional (Tocopilla, Mejillones, Huasco, Puchuncaví-Quintero, Coronel). Estás son entendidas como territorios de asentamiento humano devastados ambientalmente por causa del desarrollo industrial, vulnerando directamente derechos fundamentales de las personas (derecho a la vida, a la salud, a la educación, al trabajo, a la alimentación, a la vivienda, etc.)
+[REF](https://www.terram.cl/2016/02/infografias-conoce-las-zonas-de-sacrificio-ambiental-del-pais-2/).
 ——————
 
 [1] regresion lineal sobre los datos disponibles la referencia, corrigiendo por la inflación y considerando el dolar a 710 CLP.
