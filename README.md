@@ -2,7 +2,7 @@
 
 Junto a todes quienes quieran ayudar, estames haciendo una lista con ejemplos de lo que es la raíz del problema actual.
 
-Lo pegó acá y espero que puedan ayudarnos con más datos con sus respectivas fuentes.
+Lo pegó acá y espero que puedan ayudarnos con más datos con sus respectivas fuentes o traduciendo.
 
 ### No sirve prensa, a menos que sean centros de investigación y wikipedia sólo se permite cuando se trate de casos judiciales, wikimedia o similares.
 
@@ -54,11 +54,11 @@ Abrazos
 
 * Los resultados en la prueba PISA de ciencias del 2015 están altamente correlacionada con el nivel socio-económico del estudiante al compararlo con los otros países evaluados. Tenemos el lugar 9 en mayor distancia entre los estudiantes de sectores más pobres comparados con los más ricos [REF](http://gpseducation.oecd.org/CountryProfile?primaryCountry=CHL&treshold=10&topic=PI).
 
-* En las pruebas PISA 2015, se muestra que las escuelas de Chile tienen uno de los niveles más altos de correlación socio-economica, las salas de clases tienen miembros del mismo nivel. Esto puede también decirse como Chile es uno de los paîses con mayor segregación social en las escuelas, ocupando el 3 peor lugar. [REF](http://gpseducation.oecd.org/CountryProfile?primaryCountry=CHL&treshold=10&topic=PI).
+* En las pruebas PISA 2015, se muestra que las escuelas de Chile tienen uno de los niveles más altos de correlación socio-economica, las salas de clases tienen miembros del mismo nivel. Esto puede también decirse como Chile es uno de los paîses con mayor segregación social en las escuelas, ocupando el 3er peor lugar. [REF](http://gpseducation.oecd.org/CountryProfile?primaryCountry=CHL&treshold=10&topic=PI).
 
-* Chile es el único país en el mundo que tiene sus aguas privatizadas. El Código de Aguas de 1981, impuesto bajo dictadura militar, establece un propietario con derechos de uso, donde éste puede arrendar, comprar y vender los derechos como cualquier otra propiedad [REF](https://www.leychile.cl/Navegar?idNorma=5605)
+* Chile es el único país en el mundo que tiene sus aguas privatizadas. El Código de Aguas de 1981, impuesto bajo dictadura militar, establece un propietario con derechos de uso, donde éste puede arrendar, comprar y vender los derechos como cualquier otra propiedad [REF](https://www.leychile.cl/Navegar?idNorma=5605).
 
-* Hasta año 2012, el 90% de los derechos de aprovechamiento de aguas consuntivas (no devuelven un caudal al río) se encuentran en manos de empresas mineras y agroexportadoras, mientras que prácticamente el 100% de los derechos de aprovechamiento de aguas no consuntivos (devuelven un caudal al río) se encuentra en manos de transnacionales como ENDESA [REF](https://ciperchile.cl/2012/02/17/la-privatizacion-de-las-aguas-en-chile-viola-los-derechos-humanos/)
+* Hasta año 2012, el 90% de los derechos de aprovechamiento de aguas consuntivas (no devuelven un caudal al río) se encuentran en manos de empresas mineras y agroexportadoras, mientras que prácticamente el 100% de los derechos de aprovechamiento de aguas no consuntivos (devuelven un caudal al río) se encuentra en manos de transnacionales como ENDESA [REF](https://ciperchile.cl/2012/02/17/la-privatizacion-de-las-aguas-en-chile-viola-los-derechos-humanos/).
 
 * Al año 2015, 110 cuencas del país se encuentran con una demanda comprometida superior a su recarga natural, y por consiguiente se encuentran con sobre otorgamiento de derechos de agua [REF](https://www.interior.gob.cl/media/2015/04/recursos_hidricos.pdf).
 
@@ -70,6 +70,8 @@ Abrazos
 
 * Al año 2016, existen cinco zonas de sacrificio ambiental a lo largo del territorio nacional (Tocopilla, Mejillones, Huasco, Puchuncaví-Quintero, Coronel). Estás son entendidas como territorios de asentamiento humano devastados ambientalmente por causa del desarrollo industrial, vulnerando directamente derechos fundamentales de las personas (derecho a la vida, a la salud, a la educación, al trabajo, a la alimentación, a la vivienda, etc.)
 [REF](https://www.terram.cl/2016/02/infografias-conoce-las-zonas-de-sacrificio-ambiental-del-pais-2/).
+
+
 ——————
 
 [1] regresion lineal sobre los datos disponibles la referencia, corrigiendo por la inflación y considerando el dolar a 710 CLP.
