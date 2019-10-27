@@ -8,7 +8,11 @@ Abrazos y **el que no marcha es Piñera**.
 
 * Una familia CIS heterosexual con 2 hijos, donde madre y padre trabajan y ganan la mediana de ingresos a Agosto del 2019. Mamá ganaría $343,234 (CLP) y papá $411,100, la vagina media está pagada 16.5% menos que el pene medio. El total del ingreso familiar seria $754,334 CLP, que los pone $316000, poco más que un sueldo mînimo ($301,000) a esa fecha [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
 
+* Según la encuesta CASEN 2017, al dividir a la población por deciles. Sólo desde el 8vo decil se supera el sueldo mínimo en la media del ingreso autónomo per cápita del hogar \\[REF](http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/casen_2017.php).
+
 * Actualmente, 2019, la deuda externa del país es equivalente al 67% del PIB [REF](https://www.bcentral.cl/deuda-externa).
+
+* Dentro de los países OCDE, Chile es actualmente el país con el mayor índice de obesidad [REF](https://data.oecd.org/chart/5ILm)
 
 * La salud mental es un problema grave, el 2007 la OMS estimaba que un 31% de la población ha tenido algún trastorno psiquiátrico, sin embargo se estima que al rededor del 60% de ellos no recibe tratamiento [REF](https://www.who.int/mental_health/policy/country/chile/en/).
 
