@@ -6,7 +6,7 @@ Abrazos y **el que no marcha es Piñera**.
 
 * A septiembre del 2019, la linea de pobreza para una familia de 4 es de $436,000 (CLP) [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/layout/doc/ipc/Valor_CBA_y_LPs_19.09.pdf), mientras que casi el 50% de la población gana menos de $400,000 [REF](http://www.fundacionsol.cl/estudios/losverdaderos-salarios-de-chile-2018/).
 
- * Tomando esto en cuenta, Una familia cis-hetero con 2 hijos, donde madre y padre trabajan y ganan la mediana de ingresos a Agosto del 2019. Mamá ganaría $343,234 (CLP) y papá $411,100, la vagina media está pagada 16.5% menos que el pene medio. El total del ingreso familiar seria $754,334 CLP, que los pone $316000, poco más que un sueldo mînimo ($301,000) a esa fecha [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
+ * Tomando esto en cuenta, Una familia cis-hetero con 2 hijos, donde madre y padre trabajan y ganan la mediana de ingresos a Agosto del 2019. Mamá ganaría $343,234 (CLP) y papá $411,100, la vagina media está pagada 16.5% menos que el pene medio. El total del ingreso familiar sería $754,334 CLP, subtrayendo la linea de pobreza, la familia mediana queda $316000 por sobre ser pobres. Poco más que un sueldo mînimo ($301,000) a esa fecha [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
 
 
 * Según la encuesta CASEN 2017, al dividir a la población por deciles. Sólo desde el 8vo decil se supera el sueldo mínimo en la media del ingreso autónomo per cápita del hogar \\[REF](http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/casen_2017.php).
