@@ -8,7 +8,7 @@ Hugs and **el que no marcha es Piñera**.
 
 * Until September 2019 the poverty line for a four-member family is $436,000 (CLP) [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/layout/doc/ipc/Valor_CBA_y_LPs_19.09.pdf), while almost 50% of the population earns less than $400,000 [REF](http://www.fundacionsol.cl/estudios/losverdaderos-salarios-de-chile-2018/).
 
-* Let's calculate the earnings of a cis-heterosexual family with 2 children, in which both parents work and earn the populations' median salaries for last August 2019. The mother would earn $343,234 (CLP) and the father would earn $411,100; it is so that an average vagina is paid  16.5% less than an average penis. The total family income would be $754,334 CLP, which puts them  $316000 above than the minimal wage ($301,000) [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
+* Let's calculate the earnings of a cis-heterosexual family with 2 children, in which both parents work and earn the populations' median salaries for last August 2019. The mother would earn $343,234 (CLP) and the father would earn $411,100; it is so that an average vagina is paid  16.5% less than an average penis. The total family income would be $754,334 CLP, which puts them  $316000 above the minimal wage ($301,000) [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
 
 * Currently in 2019 the country's external debt is equal to the 67% of the GBP [REF](https://www.bcentral.cl/deuda-externa).
 
@@ -18,28 +18,28 @@ Hugs and **el que no marcha es Piñera**.
 
 * Currenly in 2019 the highest income to Chile's economy is the related to copper mining [REF](https://en.wikipedia.org/wiki/Economy_of_Chile#/media/File:Tree_map_export_2009_Chile.jpeg). Since the ’90 the military receives 10% fo the total income of state-owned copper companies (CODELCO). This money has been spent in casinos, horse racing, among others[REF](https://es.wikipedia.org/wiki/Milicogate).
 
-* La minería ha sido históricamente una forma de saquear al país, el banco mundial reporta el caso de la minera Disputada, mientras estuvo en manos de Exxon por 24 años, 1978-2002, generó más de 3 millones de toneladas de cobre, pero no pago un peso en impuesto al ingreso durante ese período [REF](https://siteresources.worldbank.org/INTOGMC/Resources/336099-1156955107170/miningroyaltiespublication.pdf).
+* Historically the mining industry has been a way of stealing from the country's wealth. The World Bank reports that in the case of the Disputada mine, while it was under Exxon's administration for 24 year (1978-2002), it produced more than 3 millions tons of cupper, without paying a cent in taxes during that period. [REF](https://siteresources.worldbank.org/INTOGMC/Resources/336099-1156955107170/miningroyaltiespublication.pdf).
 
-* Durante el período 1990-2018 El crecimiento del Ingreso Nacional Bruto per capita a crecido a una tasa de 377 USD por año, mientras el sueldo mínimo lo ha hecho a 8 [REF](https://data.worldbank.org/country/chile). [1]
+* In the same period 1990-2018 the gross income per capita grew at a rate of 377 USD per year, while the minimal wage grew only at a rate of 8 [REF](https://data.worldbank.org/country/chile). [1]
 
 * In 2017 33% of the country's wealth is owned by 1% of the population [REF](http://www.fundacionsol.cl/2017/07/banco-central-quintil-mas-rico-concentra-72-la-riqueza-chile/)
 
-* El año 2018, Bahamas, Bermuda, Islas Caimán, Islas Vírgenes Británicas y Panamá, países conocidos como paraísos fiscales, representan el 33% del stock de la inversión extranjera directa activa, la suma acumulada del dinero que sale de Chile e ingresa al país de destino [REF](https://si3.bcentral.cl/estadisticas/Principal1/Estudios/SE/BDP/IED.html).
+* In 2018 the Bahamas, Bermuda, Caiman Islands, the British Virgin Islands and Panamá (countries known to be tax heavens) receive 33% of the direct active foreign investment, that is, the investments that leave Chile and enter an foreign country. [REF](https://si3.bcentral.cl/estadisticas/Principal1/Estudios/SE/BDP/IED.html).
 
-* Al 2019, el sistema de pensiones para civiles entrega actualmente un promedio de casi 310,000 CLP, mientras que los promedios de miembros de las FFAA y del orden son mas del doble y hasta seis veces más. Cuando se cambió el modelo de pensiones ellos siguieron con el modelo anterior [REF](http://www.fundacionsol.cl/estudios/pensiones-por-la-fuerza-2019/).
+* In 2019 the pension system for civilians currently provides an average of 310,000 CLP, while the average for the military pensioneers is the double and even six-fold more. When the system changed (via privatization in the 80's) the pension system for the military stayed the same, did not privatize. [REF](http://www.fundacionsol.cl/estudios/pensiones-por-la-fuerza-2019/).
 
 * Historically Chile has been one of the most unequal countries in the world, challening Mexico the sad last place in the ranking among OCDE counties [REF](https://data.oecd.org/chart/5Ivh).
 
-* En la medida del año 2017 del Índice de Desarrollo Humano, Chile ocupa el lugar 44 a nivel mundial, el 4 peor en los países OCDE [REF](http://hdr.undp.org/en/data) [Resumen de Chile](http://hdr.undp.org/en/countries/profiles/CHL).
+* In the Human Development Index for 2017 Chile ranks 44th in the world, the 4th worse for OECD countries [REF](http://hdr.undp.org/en/data) [Resumen de Chile](http://hdr.undp.org/en/countries/profiles/CHL).
 
-* Al año 2019, el salario de los profesores chilenos está bajo la media de los países OCDE [REF](https://data.oecd.org/teachers/teachers-salaries.htm), mientras que estamos entre los 5 países con mayor cantidad de estudiantes por educador [REF](https://data.oecd.org/chart/5IGj).
+* In 2019 the wage for Chilean teachers is below the average for OECD countries [REF](https://data.oecd.org/teachers/teachers-salaries.htm), while Chile ranks among the 5 countries with the highest number of students per teacher [REF](https://data.oecd.org/chart/5IGj).
 
-* En las pruebas PISA 2015, Chile esta en el tercer lugar de peor desempeño en matemáticas [REF](https://data.oecd.org/chart/5IGk), el 4to en ciencias [REF](https://data.oecd.org/chart/5IGm) y en el 5to en lectura [REF](https://data.oecd.org/chart/5IKW) dentro de los 35 países OCDE.
+* In the PISA tests for 2015 Chile is on the third worse place in math [REF](https://data.oecd.org/chart/5IGk), 4th worse in science  [REF](https://data.oecd.org/chart/5IGm) and 5th worse in reading comprehension [REF](https://data.oecd.org/chart/5IKW), among the 35 OECD countries.
 
-* Los resultados en la prueba PISA de ciencias del 2015 están altamente correlacionada con el nivel socio-económico del estudiante al compararlo con los otros países evaluados. Tenemos el lugar 9 en mayor distancia entre los estudiantes de sectores más pobres comparados con los más ricos [REF](http://gpseducation.oecd.org/CountryProfile?primaryCountry=CHL&treshold=10&topic=PI).
+* In 2015 the results of the PISA tests in science are highly correlated with the student's socio-economic status, when compared against other countries. We rank 9th for the highest distance between rich and poor students [REF](http://gpseducation.oecd.org/CountryProfile?primaryCountry=CHL&treshold=10&topic=PI).
 
-* En las pruebas PISA 2015, se muestra que las escuelas de Chile tienen uno de los niveles más altos de correlación socio-economica, las salas de clases tienen miembros del mismo nivel. Esto puede también decirse como Chile es uno de los paîses con mayor segregación social en las escuelas, ocupando el 3 peor lugar. [REF](http://gpseducation.oecd.org/CountryProfile?primaryCountry=CHL&treshold=10&topic=PI).
+* In 2015 PISA tests show that Chileans schools have one the highest correlations between socio-economic status among students. That means that in the classroom students have the same socio-economic status. It can be also said that Chile is one of the countries with more social segretation in schools, ranking as one of the worse 3. [REF](http://gpseducation.oecd.org/CountryProfile?primaryCountry=CHL&treshold=10&topic=PI).
 
 ——————
 
-[1] regresion lineal sobre los datos disponibles la referencia, corrigiendo por la inflación y considerando el dolar a 710 CLP.
+[1] linear regression over the reference data, corrected by inflation and considering the exchange rate of 1 USD = 710 CLP.
