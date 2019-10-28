@@ -72,4 +72,4 @@ Hugs
 ——————
 
 [1] linear regression over the reference data, corrected by inflation and considering the exchange rate of 1 USD = 710 CLP.
-[2] Considering the USA dollar at 710 CLP.
+[2] Considering the USA dollar at 710 CLP. Value in Oct 18 2019, when this list started.
