@@ -64,6 +64,7 @@ Hugs
 
 * The National Institute of Human Rights (INDH) notes that of the 116 socio-environmental conflicts existing in Chile at 2015, 38% are due to the energy production sector [REF](mapaconflictos.indh.cl). In spite of this, a total of 114 electricity generation projects are currently counted as in construction [REF](mapaconflictos.indh.cl).
 
+* The National Energy Commission (CNE) estimates that by 2018 Chile has an installed power generation capacity of 23,315 MW, with the national the maximum energetic demand is estimated at 10,529 MW [REF] (https://www.cne.cl/wp-content /uploads/2019/04/Anuario-CNE-2018.pdf). Despite this, a total of 114 power generation projects are currently under construction [REF] (https://mapaconflictos.indh.cl).
 
 * In the year 2016, there where five zones fo environmental sacrifice throughout the national territory (Tocopilla, Mejillones, Huasco, Puchuncaví-Quintero, Colonel). These are territories of human setlement environmentally devastated by industrial development, directly violating people's fundamental rights (right to life, health, education, work, food, housing, etc) [REF](https://www.terram.cl/2016/02/infografias-conoce-las-zonas-de-sacrificio-ambiental-del-pais-2/).
 

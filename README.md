@@ -64,9 +64,9 @@ Abrazos
 
 * Para el año 2015 se vive una situación de escasez hídrica en 13 de las 15 regiones del país, en donde aproximadamente, 400.000 personas reciben agua potable por medio de camiones aljibes [REF](https://www.interior.gob.cl/media/2015/04/recursos_hidricos.pdf).
 
-* El INDH señala que de los 116 conflictos socioambientales existentes en Chile hasta el 2015, el 38% Chile son por causa del sector productivo de energía [REF](mapaconflictos.indh.cl).
+* El INDH señala que de los 116 conflictos socioambientales existentes en Chile hasta el 2015, el 38% son por causa del sector productivo de energía [REF](mapaconflictos.indh.cl).
 
-* Chile, al 2017, tenía una capacidad instalada de generación eléctrica de 22,045 MW, y a nivel nacional la demanda máxima no llega más allá de los 7,789 MW [REF](https://www.terram.cl/wp-content/uploads/2017/05/AnuarioCNE2016Finalweb.pdf), a pesar de eso, se contabiliza un total de 114 proyectos de generación eléctrica que actualmente se encuentran en construcción [REF](mapaconflictos.indh.cl).
+* La Comisión Nacional de Enegría estima que al 2018 Chile tiene una capacidad instalada de generación eléctrica de 23,315 MW, con un nivel nacional de demanda energética máxima estimado en 10,529 MW [REF](https://www.cne.cl/wp-content/uploads/2019/04/Anuario-CNE-2018.pdf). A pesar de eso, se contabiliza un total de 114 proyectos de generación eléctrica que actualmente se encuentran en construcción [REF](https://mapaconflictos.indh.cl).
 
 * Al año 2016, existen cinco zonas de sacrificio ambiental a lo largo del territorio nacional (Tocopilla, Mejillones, Huasco, Puchuncaví-Quintero, Coronel). Estás son entendidas como territorios de asentamiento humano devastados ambientalmente por causa del desarrollo industrial, vulnerando directamente derechos fundamentales de las personas (derecho a la vida, a la salud, a la educación, al trabajo, a la alimentación, a la vivienda, etc.)
 [REF](https://www.terram.cl/2016/02/infografias-conoce-las-zonas-de-sacrificio-ambiental-del-pais-2/).
