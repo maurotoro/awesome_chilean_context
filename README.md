@@ -15,9 +15,9 @@ Abrazos
 # **Contextualizando las movilizaciones**:
 
 
-* A septiembre del 2019, la linea de pobreza para una familia de 4 es de $436,000 (CLP) [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/layout/doc/ipc/Valor_CBA_y_LPs_19.09.pdf), mientras que casi el 50% de la población gana menos de $400,000 [REF](http://www.fundacionsol.cl/estudios/losverdaderos-salarios-de-chile-2018/).
+* A septiembre del 2019, la linea de pobreza para una familia de 4 es de $436,000 (CLP, 614 USD) [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/layout/doc/ipc/Valor_CBA_y_LPs_19.09.pdf), mientras que casi el 50% de la población gana menos de $400,000 (CLP, 563 USD) [REF](http://www.fundacionsol.cl/estudios/losverdaderos-salarios-de-chile-2018/). [2]
 
-    * Tomando esto en cuenta, Una familia cis-hetero con 2 hijos, donde madre y padre trabajan y ganan la mediana de ingresos a Agosto del 2019. Mamá ganaría $343,234 (CLP) y papá $411,100, la vagina media está pagada 16.5% menos que el pene medio. El total del ingreso familiar sería $754,334 CLP, subtrayendo la linea de pobreza, la familia mediana queda $316000 por sobre ser pobres. Poco más que un sueldo mînimo ($301,000) a esta fecha [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
+    * Tomando esto en cuenta, una familia cis-hetero con 2 hijos, donde madre y padre trabajan y ganan la mediana de ingresos a Agosto del 2019. Mamá ganaría $343,234 (CLP, 483 USD) y papá $411,100 (CLP, 579 USD), la vagina media está pagada 16.5% menos que el pene medio. El total del ingreso familiar sería $754,334 (CLP, 1061 USD), subtrayendo la linea de pobreza, la familia mediana queda $316000 (CLP, 445 USD) por sobre ser pobres. Poco más que un sueldo mînimo ($301,000 CLP, 423 USD) actual [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018). [2]
 
 
 * Según la encuesta CASEN 2017, al dividir a la población por deciles. Sólo desde el 8vo decil se supera el sueldo mínimo en la media del ingreso autónomo per cápita del hogar [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/casen_2017.php).
@@ -34,13 +34,13 @@ Abrazos
 
 * La minería ha sido históricamente una forma de saquear al país, el banco mundial reporta el caso de la minera Disputada, mientras estuvo en manos de Exxon por 24 años, 1978-2002, generó más de 3 millones de toneladas de cobre, pero no pago un peso en impuesto al ingreso durante ese período [REF](https://siteresources.worldbank.org/INTOGMC/Resources/336099-1156955107170/miningroyaltiespublication.pdf).
 
-* Durante el período 1990-2018 El crecimiento del Ingreso Nacional Bruto per capita a crecido a una tasa de 377 USD por año, mientras el sueldo mínimo lo ha hecho a 8 [REF](https://data.worldbank.org/country/chile). [1]
+* Durante el período 1990-2018 El crecimiento del Ingreso Nacional Bruto per capita a crecido a una tasa de 377 USD por año, mientras el sueldo mínimo lo ha hecho a 8 [REF](https://data.worldbank.org/country/chile). [1][2]
 
 * Al 2017 33% de la riqueza está en manos del 1% de la población [REF](http://www.fundacionsol.cl/2017/07/banco-central-quintil-mas-rico-concentra-72-la-riqueza-chile/).
 
 * El año 2018, Bahamas, Bermuda, Islas Caimán, Islas Vírgenes Británicas y Panamá, países conocidos como paraísos fiscales, representan el 33% del stock de la inversión extranjera directa activa, la suma acumulada del dinero que sale de Chile e ingresa al país de destino [REF](https://si3.bcentral.cl/estadisticas/Principal1/Estudios/SE/BDP/IED.html).
 
-* Al 2019, el sistema de pensiones para civiles entrega actualmente un promedio de casi 310,000 CLP, mientras que los promedios de miembros de las FFAA y del orden son mas del doble y hasta seis veces más. Cuando se cambió el modelo de pensiones ellos siguieron con el modelo anterior [REF](http://www.fundacionsol.cl/estudios/pensiones-por-la-fuerza-2019/).
+* Al 2019, el sistema de pensiones para civiles entrega actualmente un promedio de casi 310,000 (CLP, 436 USD), mientras que los promedios de miembros de las FFAA y del orden son mas del doble y hasta seis veces más. Cuando se cambió el modelo de pensiones ellos siguieron con el modelo anterior [REF](http://www.fundacionsol.cl/estudios/pensiones-por-la-fuerza-2019/). [2]
 
 * Históricamente, Chile es uno de los países más desiguales del mundo, y disputa con México el triste último lugar de los países OCDE [REF](https://data.oecd.org/chart/5Ivh).
 
@@ -75,3 +75,4 @@ Abrazos
 ——————
 
 [1] regresion lineal sobre los datos disponibles la referencia, corrigiendo por la inflación y considerando el dolar a 710 CLP.
+[2] Considerando el dolar de USA a 710 CLP.

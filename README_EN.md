@@ -16,9 +16,9 @@ Hugs
 # **Contextualization of the manifestations**:
 
 
-* Until September 2019 the poverty line for a four-member family is $436,000 (CLP) [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/layout/doc/ipc/Valor_CBA_y_LPs_19.09.pdf), while almost 50% of the population earning less than $400,000 [REF](http://www.fundacionsol.cl/estudios/losverdaderos-salarios-de-chile-2018/).
+* Until September 2019 the poverty line for a four-member family is $436,000 (CLP, 614 USD) [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/layout/doc/ipc/Valor_CBA_y_LPs_19.09.pdf), while almost 50% of the population earning less than $400,000 (CLP, 536 USD) [REF](http://www.fundacionsol.cl/estudios/losverdaderos-salarios-de-chile-2018/). [2]
 
-    * Let's calculate the earnings of a cis-hetero family with 2 children, in which both parents work and earn the populations' median salaries of  last August 2019. The mother would earn $343,234 (CLP) and the father would earn $411,100; it is so that an average vagina is paid  16.5% less than an average penis. The total family income would be $754,334 CLP, substracting the poverty line puts them $316,000 above the current minimum wage ($301,000) [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).
+    * Taking this into account, a cis-hetero family with 2 children, in which both parents work and earn the populations' median salaries of  last August 2019. The mother would earn $343,234 (CLP, 483 USD) and the father would earn $411,100 (CLP, 579 USD); it is so that an average vagina is paid  16.5% less than an average penis. The total family income would be $754,334 (CLP, 445 USD), substracting the poverty line puts them $316,000 (CLP, 445 USD) above the current minimum wage ($301,000 CLP, 423 USD) [REF](https://ine.cl/prensa/detalle-prensa/2019/08/13/ingreso-laboral-promedio-mensual-en-chile-fue-de-$573.964-en-2018).[2]
 
 * According to the CASEN survey from 2017, after spliting the population in deciles. Only since the 8th decile the average autonomous income per capita surpasses the current minimum wage [REF](http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/casen_2017.php).
 
@@ -34,13 +34,13 @@ Hugs
 
 * Historically the mining industry has been a way of stealing from the country's wealth. The World Bank reports that in the case of the Disputada mine, while it was under Exxon's administration for 24 year (1978-2002), it produced more than 3 millions tons of copper, without paying a cent in taxes during that period. [REF](https://siteresources.worldbank.org/INTOGMC/Resources/336099-1156955107170/miningroyaltiespublication.pdf).
 
-* In the same period 1990-2018 the gross per capita income grew at a rate of 377 USD per year, while the minimal wage grew only at a rate of 8 [REF](https://data.worldbank.org/country/chile). [1]
+* In the same period 1990-2018 the gross per capita income grew at a rate of 377 USD per year, while the minimal wage grew only at a rate of 8 [REF](https://data.worldbank.org/country/chile). [1][2]
 
 * In 2017 33% of the country's wealth is owned by 1% of the population [REF](http://www.fundacionsol.cl/2017/07/banco-central-quintil-mas-rico-concentra-72-la-riqueza-chile/)
 
 * In 2018 the Bahamas, Bermuda, Caiman Islands, the British Virgin Islands and Panama (countries known to be tax heavens) receive 33% of the direct active foreign investment, that is, the investments that leave Chile and enter an foreign country. [REF](https://si3.bcentral.cl/estadisticas/Principal1/Estudios/SE/BDP/IED.html).
 
-* In 2019 the pension system for civilians currently provides an average of 310,000 CLP, while the average for the military pensioneers is the double and even six-fold more. When the system changed (via privatization in the 80's) the pension system for the military stayed the same, it did not privatize. [REF](http://www.fundacionsol.cl/estudios/pensiones-por-la-fuerza-2019/).
+* In 2019 the pension system for civilians currently provides an average of 310,000 (CLP, 436 USD), while the average for the military pensioneers is the double and even six-fold more. When the system changed (via privatization in the 80's) the pension system for the military stayed the same, it did not privatize. [REF](http://www.fundacionsol.cl/estudios/pensiones-por-la-fuerza-2019/). [2]
 
 * Historically Chile has been one of the most unequal countries in the world, challenging Mexico for the sad last place in the ranking among OCDE counties [REF](https://data.oecd.org/chart/5Ivh).
 
@@ -72,3 +72,4 @@ Hugs
 ——————
 
 [1] linear regression over the reference data, corrected by inflation and considering the exchange rate of 1 USD = 710 CLP.
+[2] Considering the USA dollar at 710 CLP.
