@@ -75,4 +75,4 @@ Abrazos
 ——————
 
 [1] regresion lineal sobre los datos disponibles la referencia, corrigiendo por la inflación y considerando el dolar a 710 CLP.
-[2] Considerando el dolar de USA a 710 CLP. Valor a oct 18 2019, cuando se comenzó esta lista
+[2] Considerando el dolar de USA a 710 CLP. Valor a oct 18 2019, cuando se comenzó esta lista.
