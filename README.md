@@ -73,7 +73,7 @@ Abrazos
 
 * Desde el violento fin del proyecto de la Unidad Popular, el país ha vivido un fuerte proceso de privatización. El año 1973, el estado participaba en 596 empresas, que representaban el 39% del PIB, al año 1998 el total de empresas era 38 y representaban el 9% [REF](https://www.cepchile.cl/cep/site/artic/20160304/asocfile/20160304093212/04_hachette.pdf)
 
-* Durante el período de 1979-1985 Santiago vivió literalmente un éxodo de los pobladores. Se movilizó a "poblaciones callampa" a nuevas viviendas sociales en comunas periféricas. Viviendas de 18m<sup>2</sup> en terrenos de 120 m<sup>2</sup> [REF](https://infoinvi.uchilefau.cl/las-erradicaciones-de-la-dictadura-el-traslado-de-las-poblaciones-a-la-periferia/).
+* Durante el período de 1979-1985 Santiago vivió literalmente un éxodo de los pobladores. Se movilizó a "poblaciones callampa" a nuevas viviendas sociales en comunas periféricas. Viviendas de 18 mt<sup>2</sup> en terrenos de 120 mt<sup>2</sup> [REF](https://infoinvi.uchilefau.cl/las-erradicaciones-de-la-dictadura-el-traslado-de-las-poblaciones-a-la-periferia/), en el mercado inmobiliario actual, en Santiago se ofrecen departamentos de menos de 20 mt<sup>2</sup> a más de 2000 UF [REF](https://www.iarmas.cl/proyectos/stgo3/).
 
 * Al estudiar los efectos de la segregación social forzada por las políticas del SERVIU durante la dictadura [REF](https://www.leychile.cl/Navegar?idNorma=6945), el año 2017 se pueden observar marcadores de desigualdad en los niveles de ingresos, educación y mercado laboral al que pertenecen los habitantes de distintas áreas de la ciudad [REF](estudiosurbanos.uc.cl/images/noticias-actividades/2017/Abril_2017/REV121_Fuentes.pdf).
 
