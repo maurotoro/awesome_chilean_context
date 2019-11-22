@@ -10,9 +10,9 @@ Además a nivel lationamericano el Observatorio de Conflictos Mineros de America
 
 ## Conflictos En relación con el gobierno de Piñera
 
-La reunión de la COP25 iba a realizarse en Chile, hasta que el presidente Piñera canceló el evento. Sin embarog, esta aún va a realizarse pero en Madrid [REF](link a sitio oficial)
+La reunión de la COP25 iba a realizarse en Chile, hasta que el presidente Piñera canceló el evento. Sin embarog, esta aún va a realizarse pero en Madrid [REF](https://www.cop25.cl)
 
-La presidencia de esta reunión la tiene Carolina Schmidt, ministra de medio-ambiente del gobierno.
+La presidencia de esta reunión la tiene Carolina Schmidt, ministra de medio-ambiente del gobierno [REF](https://www.cop25.cl/#/equipo-y-presidencia).
 
 A continuación se dan cuenta de algunos de los conflictos de intereses entre el gobierno y el medi ambiente. Algunos de ellos son casos históricos, que permiten entender que este gobierno tiene una visión extractivista del ecosistema, donde el mundo es una bolsa de recursos a ser explotados.
 
