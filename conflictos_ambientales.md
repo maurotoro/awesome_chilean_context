@@ -48,10 +48,7 @@ Las explotaciones de esta mina han implicado daños irreparables al ecosistema l
 
 Terrenos que pertenecen a comunidades Huilliches, que tienen bajo su control desde 1826 cuando firman el tratado de Tantauco. El 2004 Piñera compra 115k hectáreas de bosque nativo en la isla grande de Chiloe, el 15% de la isla.La compra fue ampliamente cuestionada pues son
 No me queda claro como lo compro, fue a la CONAF?
-http://www.movimientodefendamoschiloe.cl/web/2017/06/07/como-pinera-se-compro/
-
-https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era
-
+[Compra del parque](http://www.movimientodefendamoschiloe.cl/web/2017/06/07/como-pinera-se-compro/)
 
 ---
 
@@ -59,21 +56,18 @@ https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era
 
 Durante el año 2009 se presenta un proyecto para extraer hierro en la región de Coquimbo, uno de los inversores era Fondo Inversión Privado (FIP) mediterráneo, con participación d
 
-https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-reportajes/2017/02/27/los-desconocidos-intereses-de-la-familia-pinera-en-minera-dominga.shtml
-
-https://www.elmostrador.cl/noticias/pais/2017/07/10/las-dudas-que-siembra-el-sii-sobre-la-propiedad-de-minera-dominga-en-manos-de-la-familia-pinera/
-https://www.elmostrador.cl/noticias/pais/2017/02/27/pinera-y-su-familia-tenia-intereses-en-minera-dominga-cuando-negocio-bajada-de-central-termoelectrica-barrancones/
-https://www.elmostrador.cl/noticias/pais/2019/07/05/minera-dominga-el-fierro-caliente-para-pinera-que-amenaza-con-oscurecer-la-cop25/
+[REF Dominga y Piñera](https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-reportajes/2017/02/27/los-desconocidos-intereses-de-la-familia-pinera-en-minera-dominga.shtml)
+[REF SII y Dominga + Piñera](https://www.elmostrador.cl/noticias/pais/2017/07/10/las-dudas-que-siembra-el-sii-sobre-la-propiedad-de-minera-dominga-en-manos-de-la-familia-pinera/)
+[REF Piñeda y bajada de termoelectrica barrancones](https://www.elmostrador.cl/noticias/pais/2017/02/27/pinera-y-su-familia-tenia-intereses-en-minera-dominga-cuando-negocio-bajada-de-central-termoelectrica-barrancones/)
+[REF Dominga y COP25](https://www.elmostrador.cl/noticias/pais/2019/07/05/minera-dominga-el-fierro-caliente-para-pinera-que-amenaza-con-oscurecer-la-cop25/)
 
 ---
 
 ## Exalmar
 
-Una de las empresas pesqueras más importantes del Perú. Se dedica principalmente a la pesca extractivista y generación de harinas y aceites de pescado. El año 2011, durante su primer mandato y en medio de un litigio internacional por los límites fronterizos marinos entre Chile y Perú, una de las empresas asociadas a la familia de Piñera, ,hacen compra de 8.74% de las acciones de la empresa.
+Una de las empresas pesqueras más importantes del Perú. Se dedica principalmente a la pesca extractivista y generación de harinas y aceites de pescado. El año 2011, durante su primer mandato y en medio de un litigio internacional por los límites fronterizos marinos entre Chile y Perú, una de las empresas asociadas a la familia de Piñera hacen compra de 9.1% de las acciones de la empresa [REF](https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-reportajes/2016/11/14/los-negocios-que-pinera-hizo-en-el-mar-peruano-durante-el-juicio-de-la-haya.shtml).
 
 La planta de Chimobote de la empresa ha sido duramente cuestionada por su rol en la contaminación acústica y polución del aire en la zona. El año 2018, luego de fuertes presiones de moviemientos sociales se tuvo que actualizar su matriz energética [REF](https://foronda.pe/pesquera-exalmar-presentara-plan-de-cambio-de-matriz-energetica-en-tres-semanas/)
-
-https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-reportajes/2016/11/14/los-negocios-que-pinera-hizo-en-el-mar-peruano-durante-el-juicio-de-la-haya.shtml
 
 ---
 
@@ -83,10 +77,9 @@ Hay que incluir todo lo asociado a la turbiedad del grupo Bancard y FIP con los 
 
 ### Sobre FIP y Bancard
 
-http://www.clarinet.cl/nuevo/index.php/chile/politica/4121-las-sociedades-en-que-se-funde-la-fortuna-de-la-familia-pinera-morel
-http://www.economiaynegocios.cl/noticias/noticias.asp?id=280393
-https://gestion.pe/economia/pinera-presencia-lindley-exalmar-andino-investment-112397-noticia/
-
+Piñera en exalmar y la otra pesquera, además en Andino investment haciendo aeropuertos y en las fábricas de Inka Cola [REF](https://gestion.pe/economia/pinera-presencia-lindley-exalmar-andino-investment-112397-noticia/)
+[Estructura de sociedades de Piñera Morel](http://www.clarinet.cl/nuevo/index.php/chile/politica/4121-las-sociedades-en-que-se-funde-la-fortuna-de-la-familia-pinera-morel)
+[Otro desgloce de FIP y Bancard](http://www.economiaynegocios.cl/noticias/noticias.asp?id=280393)
 
 Puta, hay lotes más, donde está el tiempo!?
 
