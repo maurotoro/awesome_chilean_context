@@ -3,9 +3,8 @@
 Actualmente  existen cinco zonas de sacrificio ambiental a lo largo del territorio nacional (Tocopilla, Mejillones, Huasco, Puchuncaví-Quintero, Coronel). Estás son entendidas como territorios de asentamiento humano devastados ambientalmente por causa del desarrollo industrial, vulnerando directamente derechos fundamentales de las personas (derecho a la vida, a la salud, a la educación, al trabajo, a la alimentación, a la vivienda, etc.)
 [REF](https://www.terram.cl/2016/02/infografias-conoce-las-zonas-de-sacrificio-ambiental-del-pais-2/). En ellas se concentran las 28 centrales termoeléctricas a carbón de Chile.
 
-El Instituo Nacional de Derechos Humanos [INDH](www.indh.cl) ha generado un mapa con los conflictos socioambientales que han podido observar [REF](https://mapaconflictos.indh.cl).
-Además a nivel lationamericano el Observatorio de Conflictos Mineros de America Latina
-[REF](https://www.ocmal.org/), a generado un mapa de 266 conflictos mineros [REF](https://mapa.conflictosmineros.net), con un total de 49 conflictos asociados a chile [REF]([REF](https://mapa.conflictosmineros.net/ocmal_db-v2/conflicto/lista/02032300) el país con más conflictos en la lista.
+El Instituo Nacional de Derechos Humanos [INDH](www.indh.cl) ha generado un mapa con 116 conflictos socioambientales que han podido observar [REF](https://mapaconflictos.indh.cl). A nivel lationamericano el Observatorio de Conflictos Mineros de America Latina
+[OCMAL](https://www.ocmal.org/), a generado un mapa de 266 conflictos mineros [REF](https://mapa.conflictosmineros.net), con un total de 49 conflictos asociados a chile [REF]([REF](https://mapa.conflictosmineros.net/ocmal_db-v2/conflicto/lista/02032300) el país con más conflictos en la lista.
 
 ---
 
