@@ -1,10 +1,10 @@
 # Conflictos medioambientales en Chile
 
 Actualmente  existen cinco zonas de sacrificio ambiental a lo largo del territorio nacional (Tocopilla, Mejillones, Huasco, Puchuncaví-Quintero, Coronel). Estás son entendidas como territorios de asentamiento humano devastados ambientalmente por causa del desarrollo industrial, vulnerando directamente derechos fundamentales de las personas (derecho a la vida, a la salud, a la educación, al trabajo, a la alimentación, a la vivienda, etc.)
-[REF](https://www.terram.cl/2016/02/infografias-conoce-las-zonas-de-sacrificio-ambiental-del-pais-2/). En ellas se concentran las 28 centrales termoeléctricas a carbón de Chile.
+[REF](https://www.terram.cl/2016/02/infografias-conoce-las-zonas-de-sacrificio-ambiental-del-pais-2/). En ellas se concentran las 28 centrales termoeléctricas a carbón de Chile [REF](https://www.eldesconcierto.cl/2018/10/03/zonas-de-sacrificio-las-6-comunas-que-concentran-las-28-termoelectricas-a-carbon-en-chile/).
 
 El Instituo Nacional de Derechos Humanos [INDH](www.indh.cl) ha generado un mapa con 116 conflictos socioambientales que han podido observar [REF](https://mapaconflictos.indh.cl). A nivel lationamericano el Observatorio de Conflictos Mineros de America Latina
-[OCMAL](https://www.ocmal.org/), a generado un mapa de 266 conflictos mineros [REF](https://mapa.conflictosmineros.net), con un total de 49 conflictos asociados a chile [REF]([REF](https://mapa.conflictosmineros.net/ocmal_db-v2/conflicto/lista/02032300) el país con más conflictos en la lista.
+[OCMAL](https://www.ocmal.org/), a generado un mapa de 266 conflictos mineros [REF](https://mapa.conflictosmineros.net), con un total de 49 conflictos asociados a chile [REF]((https://mapa.conflictosmineros.net/ocmal_db-v2/conflicto/lista/02032300) el país con más conflictos en la lista.
 
 ---
 
@@ -24,7 +24,8 @@ Oxiquim es una de las empresas responsables de la nube de gas tóxica que llevó
 
 Oxiquim es una empresa asociada a Piñera por su director general, el abogado Fernando Barros, quien ha sido repreentante de Piraña en distintos casos relacionados con sus abusos fiscales, además de ser el arquitecto detrás de la estrategía de la evación de impuestos mediante «empresas zombie» [REF](https://www.eldinamo.cl/nacional/2017/11/03/fernando-barros-el-tributarista-que-ayudo-a-eludir-millonarios-impuestos-a-pinera-y-leonidas-vial/). Además de este vínculo directo con el presidente, el abogado director general de la empresa fueron miembro del mismo buffet de abogados por 20 años junto al esposo de la ex ministra del interior y actual ministra de medio ambiente, Carolina Schmidt [REF](https://www.elmostrador.cl/noticias/pais/2018/08/29/el-precario-equilibrio-de-carolina-schmidt-tras-su-gestion-en-la-crisis-ambiental-de-quintero).
 
-[Más información](https://www.eldesconcierto.cl/etiqueta/oxiquim/)
+[Más información sobre el caso de Puchuncavi y Quinteros](https://unegocios.uchile.cl/wp-content/uploads/2018/10/Analisis-caso-quinteros-y-puchuncabi.pdf)
+[Más noticias sobre OXIQUIM](https://www.eldesconcierto.cl/etiqueta/oxiquim/)
 
 ---
 
@@ -103,7 +104,7 @@ Hay que incluir todo lo asociado a la turbiedad del grupo Bancard y FIP con los 
 
 - [Muchísima más info sobre las empresas asociadas a FIP, Bancard, Bancorp y otros](http://www.clarinet.cl/nuevo/index.php/chile/corrupcion/4008-el-pirana-en-su-laberinto-de-fraudes-y-mentiras)
 
-
+- [Aun más sobre Quinteros y Puchuncavi](http://www.clarinet.cl/nuevo/index.php/ambiente/5468-zonas-de-sacrificio-una-inmoralidad-un-pais-llamado-quintero)
 Puta, hay lotes más, donde está el tiempo!?
 
 ---

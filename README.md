@@ -77,6 +77,9 @@ Abrazos
 
 * Al estudiar los efectos de la segregación social forzada por las políticas del SERVIU durante la dictadura [REF](https://www.leychile.cl/Navegar?idNorma=6945), el año 2017 se pueden observar marcadores de desigualdad en los niveles de ingresos, educación y mercado laboral al que pertenecen los habitantes de distintas áreas de la ciudad [REF](estudiosurbanos.uc.cl/images/noticias-actividades/2017/Abril_2017/REV121_Fuentes.pdf).
 
+* Durante el Siglo XX el estado comienza un proceso de apropiación de las tierras pertenecientes a los pueblos originarios de Chile. En muchos casos desconociendo tratados firmados durante la independencia [REF](http://www.movimientodefendamoschiloe.cl/web/2017/06/07/como-pinera-se-compro/).
+
+* Durante la dictadura, mediante la apropiación de los terrenos destinados a la reforma agraria a travez de la CONAF, el yerno de Pinochet, Julio Ponce Lerou, comienza a vender a privados las extensiones de tierra y a destinarlas a forestales. Todo esto asistido mediante suculentas subvenciones estatales para fomentar el desarrollo de esta industria [REF](http://www.clarinet.cl/nuevo/index.php/chile/corrupcion/3774-como-augusto-pinochet-se-apropio-de-la-corporacion-nacional-forestal-conaf-para-enriquecer-a-su-familia).
 
 ——————
 
