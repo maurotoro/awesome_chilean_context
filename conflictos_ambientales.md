@@ -20,7 +20,7 @@ A continuación se dan cuenta de algunos de los conflictos de intereses entre el
 - [Alto Maipo](#alto-maipo)
 - [Isla Riesco](#isla-riesco)
 - [Parque Tantauco](#parque-tantauco)
-- [Exalmar](#exalmar-(perú))
+- [Exalmar](#exalmar-perú)
 
 ---
 
