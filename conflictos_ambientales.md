@@ -40,7 +40,7 @@ A continuación se dan cuenta de algunos de los conflictos de intereses entre el
   - [Isla Riesco](#isla-riesco)
   - [Parque Tantauco](#parque-tantauco)
   - [Exalmar (Perú)](#exalmar-perú)
-  - [Central Costanera (Argentina)](#central-ostanera-argentina)
+  - [Central Costanera (Argentina)](#central-costanera-argentina)
 
 ---
 
