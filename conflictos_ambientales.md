@@ -8,13 +8,19 @@ El Instituo Nacional de Derechos Humanos [INDH](www.indh.cl) ha generado un mapa
 
 ---
 
-## Conflictos En relación con el gobierno de Piñera
+# Conflictos En relación con el gobierno de Piñera
 
 El presidente Sebastián Piñera canceló la reunión de la COP25 iba a realizarse en Chile luego de una carta firmada por más de 40 eurodiputados repudiando la severa represión y violaciones a derechos humanos durante las protestas del pueblo chileno [REF](https://twitter.com/leilachaibi/status/1189182854191706115).
 
 Sin embargo, aunque esta aún va a realizarse ahora en Madrid [REF](https://www.cop25.cl), va a seguir siendo presidida por Carolina Schmidt, ministra de medio-ambiente del gobierno chileno [REF](https://www.cop25.cl/#/equipo-y-presidencia).
 
 A continuación se dan cuenta de algunos de los conflictos de intereses entre el gobierno y el medio ambiente. Algunos de ellos son casos históricos, que permiten entender que este gobierno tiene una visión extractivista del ecosistema, donde el mundo es una bolsa de recursos a ser explotados.
+
+- [Oxiquim](#oxiquim)
+- [Alto Maipo](#alto-maipo)
+- [Isla Riesco](#isla-riesco)
+- [Parque Tantauco](#parque-tantauco)
+- [Exalmar](#exalmar-(perú))
 
 ---
 
