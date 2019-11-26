@@ -39,6 +39,7 @@ A continuación se dan cuenta de algunos de los conflictos de intereses entre el
   - [Alto Maipo](#alto-maipo)
   - [Isla Riesco](#isla-riesco)
   - [Parque Tantauco](#parque-tantauco)
+  - [Mina Dominga](#mina-dominga)
   - [Exalmar (Perú)](#exalmar-perú)
   - [Central Costanera (Argentina)](#central-costanera-argentina)
 
@@ -48,7 +49,7 @@ A continuación se dan cuenta de algunos de los conflictos de intereses entre el
 
 Oxiquim es una de las empresas responsables de la nube de gas tóxica que llevó a más de 300 personas a ser hospitalizadas en el área de Quinteros y Puchuncaví [REF](http://olca.cl/articulo/nota.php?id=107406).
 
-Oxiquim es una empresa asociada a Piñera por su director general, el abogado Fernando Barros, quien ha sido repreentante de Piraña en distintos casos relacionados con sus abusos fiscales, además de ser el arquitecto detrás de la estrategía de la evación de impuestos mediante «empresas zombie» [REF](https://www.eldinamo.cl/nacional/2017/11/03/fernando-barros-el-tributarista-que-ayudo-a-eludir-millonarios-impuestos-a-pinera-y-leonidas-vial/). Además de este vínculo directo con el presidente, el abogado director general de la empresa fueron miembro del mismo buffet de abogados por 20 años junto al esposo de la ex ministra del interior y actual ministra de medio ambiente, Carolina Schmidt [REF](https://www.elmostrador.cl/noticias/pais/2018/08/29/el-precario-equilibrio-de-carolina-schmidt-tras-su-gestion-en-la-crisis-ambiental-de-quintero).
+Oxiquim es una empresa asociada a Piñera por su director general, el abogado Fernando Barros, quien ha sido representante del mandatario en distintos casos relacionados con sus abusos fiscales, además de ser el arquitecto detrás de la estrategía de la evación de impuestos mediante «empresas zombie» [REF](https://www.eldinamo.cl/nacional/2017/11/03/fernando-barros-el-tributarista-que-ayudo-a-eludir-millonarios-impuestos-a-pinera-y-leonidas-vial/). Además de este vínculo directo con el presidente, el abogado director general de la empresa fueron miembro del mismo buffet de abogados por 20 años junto al esposo de la ex ministra del interior y actual ministra de medio ambiente, Carolina Schmidt [REF](https://www.elmostrador.cl/noticias/pais/2018/08/29/el-precario-equilibrio-de-carolina-schmidt-tras-su-gestion-en-la-crisis-ambiental-de-quintero).
 
 [Más información sobre el caso de Puchuncavi y Quinteros](https://unegocios.uchile.cl/wp-content/uploads/2018/10/Analisis-caso-quinteros-y-puchuncabi.pdf)
 
@@ -74,19 +75,27 @@ Las explotaciones de esta mina han implicado daños irreparables al ecosistema l
 
 ## Parque Tantauco
 
-Terrenos que pertenecen a comunidades Williche, que tienen bajo su control desde 1826 cuando firman el tratado de Tantauco. Estos terrenos son apropiados por el estado de manera irregular durante el comienzo del siglo XX y desde ese entonces comienzan a ser vendidos o licitados a privados. El 2004 Piñera compra 115k hectáreas de bosque nativo en la isla grande de Chiloe, cerca del 15% de la isla, al inversor estadounidense Jeremiah Henderson quien habría comprado los terrenos para explotación forestal [REF](http://www.movimientodefendamoschiloe.cl/web/2017/06/07/como-pinera-se-compro/) .
+Terrenos que pertenecen a comunidades Williches, que tienen bajo su control desde 1826 cuando firman el tratado de Tantauco. Estos terrenos son apropiados por el estado de manera irregular durante el comienzo del siglo XX y desde ese entonces comienzan a ser vendidos o licitados a privados. El 2004 Piñera compra 115k hectáreas de bosque nativo en la isla grande de Chiloe, cerca del 15% de la isla, al inversor estadounidense Jeremiah Henderson quien habría comprado los terrenos para explotación forestal [REF](http://www.movimientodefendamoschiloe.cl/web/2017/06/07/como-pinera-se-compro/).
 
-Si bien el proyecto ha sido presentado como una obra de conservacionismo, la verdad es que las comunidades Williche han sido desplazadas y despojadas de sus territorios [REF](http://docs.wixstatic.com/ugd/3f1b41_1a9c992fbc0942b4af51940076d8f0de.pdf?fbclid=IwAR1rrZmuht-beQDQqY8Lrh0PjDDKcPyB-qWmwhRc32cXYDrE1z8MMCxA4uU_.)
+Si bien el proyecto ha sido presentado como una obra de conservacionismo y protección ambiental, la verdad es que las comunidades Williches han sido desplazadas y despojadas de sus territorios [REF](http://docs.wixstatic.com/ugd/3f1b41_1a9c992fbc0942b4af51940076d8f0de.pdf?fbclid=IwAR1rrZmuht-beQDQqY8Lrh0PjDDKcPyB-qWmwhRc32cXYDrE1z8MMCxA4uU_.)
 
 Además de la grave agresión a las comunidades y su historia, de la deslegitimación colonialista en la acción de compra y la falta de diálogo y falsas promesas de compensación. Quizás el acto político y poético de poner el nombre Tantauco, el nombre del tratado que otorgaba a las comunidades Williche el reconocimiento de la propiedad de sus tierras ante el nuevo estado Chileno, es la afrenta que deja más en claro el desinterés y cruel sentido de humor del presidente [REF](https://es.wikisource.org/wiki/Tratado_de_Tantauco).
 
 ---
 
+## Mina Dominga
+
+A cuatro días de asumido su primer mandato, Fondo Inversión Privado (FIP) mediterráneo, gestionado por Bancorp parte del grupo Bancard, el grupo de inversiones con sede en las Islas Vírgenes Britanicas de la familia Piñera-Morel, crean la sociedad Minería Activa Uno [REF](https://www.elmostrador.cl/noticias/pais/2017/02/27/pinera-y-su-familia-tenia-intereses-en-minera-dominga-cuando-negocio-bajada-de-central-termoelectrica-barrancones/), esta adquiere diversas conseciones mineras en comuna de La Higuera en la Región de Coquimbo, perarando el terreno para la explotación de los yacimientos de Hierro y Cobre existentes en el área. Mientras su familia estaba preparando este negocio, en calidad de presidente, Piñera baja el proyecto de la termoeléctrica de Barrancones, a realizarse cerca del proyecto, so pretexto de proteger las reservas naturales, aun cuando este ya estaba aprobado por las autoridades medioambientales de la época y les fuerza a buscar una nueva localización. El nivel de impacto ambiental de ambos proyectos en el área no hubiese permitido que se aceptara el proyecto minero, al ir como independiente tendría mayores posibilidades [REF](https://www.biobiochile.cl/noticias/nacional/chile/2017/02/27/los-desconocidos-intereses-de-la-familia-pinera-en-minera-dominga.shtml). [Más informaciones](https://www.elmostrador.cl/noticias/pais/2017/07/10/las-dudas-que-siembra-el-sii-sobre-la-propiedad-de-minera-dominga-en-manos-de-la-familia-pinera/))
+
+El proyecto minero amenaza una zona de alta diversidad ecológica, subestima el área de influencia de su trabajo que impactará profundamente el hábitat natural del pingüino de Humboldt una especie amenazada actualmente. Además de pone en riesgo los santuarios naturales aledaños [REF](https://alianzahumboldt.cl/). Dado el nivel de posibles perjuicios al medio, el proyecto minero y su puerto asociado pueden llevar a La higuera a convertirse una nueva zona de sacrificio [REF](https://ciperchile.cl/2019/03/07/proyecto-dominga-en-la-corte-suprema-dias-decisivos-para-la-biodiversidad-de-la-higuera/).
+
+---
+
 ## Exalmar (Perú)
 
-Una de las empresas pesqueras más importantes del Perú. Se dedica principalmente a la pesca extractivista y generación de harinas y aceites de pescado. El año 2012, durante su primer mandato y en medio de un litigio internacional por los límites fronterizos marinos entre Chile y Perú, una de las empresas asociadas a la familia de Piñera hacen compra de 9.1% de las acciones de la empresa [REF](https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-reportajes/2016/11/14/los-negocios-que-pinera-hizo-en-el-mar-peruano-durante-el-juicio-de-la-haya.shtml).
+Una de las empresas pesqueras más importantes del Perú. Se dedica principalmente a la pesca extractivista y generación de harinas y aceites de pescado. El año 2012, durante su primer mandato y en medio de un litigio internacional por los límites fronterizos marinos entre Chile y Perú, una de las empresas asociadas a la familia de Piñera hacen compra del 9% de las acciones de la empresa [REF](https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-reportajes/2016/11/14/los-negocios-que-pinera-hizo-en-el-mar-peruano-durante-el-juicio-de-la-haya.shtml).
 
-La pesca por arrastre es uno de los mayores depredadores de los ecosistemas marinos, la empresa ha llegado a ser la cuarta potencia pesquera en Perú gracias a su eficiencia en el abuso del medio marino. Además, el juicio ante la corte internacional, permitío a Piñera aumentar el espacio de explotación de las compañias pesqueras en las que tiene participación en el Perú. Una de las lecturas sobre esta participación tiene relación a la manera en que se regula la pesca industrial en Chile, que mediante la llamada Ley Longueira deja los recursos marítimos en manos de 7 familias [REF](https://www.elquintopoder.cl/medio-ambiente/el-legado-pesquero-de-sebastian-pinera/).
+La pesca por arrastre es uno de los mayores depredadores de los ecosistemas marinos, la empresa ha llegado a ser la cuarta potencia pesquera en Perú gracias a su eficiencia en el abuso del medio marino. Además, el juicio ante la corte internacional, permitío a Piñera aumentar el espacio de explotación de las compañias pesqueras en las que tiene participación en el Perú. Una de las lecturas sobre esta participación tiene relación a la manera en que se regula la pesca industrial en Chile, que mediante la llamada Ley Longueira deja los recursos marítimos en manos de 7 familias [REF](https://www.elquintopoder.cl/medio-ambiente/el-legado-pesquero-de-sebastian-pinera/) no le permitiría ingresas a este lucrativo mercado.
 
 La planta de Chimobote de Exalmar ha sido duramente cuestionada por su rol en la contaminación acústica y polución del aire en esta zona. El año 2018, luego de fuertes presiones de moviemientos sociales se tuvo que actualizar su matriz energética del cabrón al gas natural [REF](https://foronda.pe/pesquera-exalmar-presentara-plan-de-cambio-de-matriz-energetica-en-tres-semanas/).
 
@@ -102,23 +111,7 @@ Durante los casi cuatro años en que participa mediante Bancard y con la represe
 
 ---
 
-## Mina Dominga
-
-Durante el año 2009 se presenta un proyecto para extraer hierro en la región de Coquimbo, uno de los inversores relevantes era Fondo Inversión Privado (FIP) mediterráneo, empresa gestionada por la offshore Bancard International de propiedad de la familia Piñera-Morel con sede en las islas Virgenes Britanicas.
-
-- [REF Dominga y Piñera](https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-reportajes/2017/02/27/los-desconocidos-intereses-de-la-familia-pinera-en-minera-dominga.shtml)
-
-- [REF SII y Dominga + Piñera](https://www.elmostrador.cl/noticias/pais/2017/07/10/las-dudas-que-siembra-el-sii-sobre-la-propiedad-de-minera-dominga-en-manos-de-la-familia-pinera/)
-
-- [REF Piñeda y bajada de termoelectrica barrancones](https://www.elmostrador.cl/noticias/pais/2017/02/27/pinera-y-su-familia-tenia-intereses-en-minera-dominga-cuando-negocio-bajada-de-central-termoelectrica-barrancones/)
-
-- [REF Dominga y COP25](https://www.elmostrador.cl/noticias/pais/2019/07/05/minera-dominga-el-fierro-caliente-para-pinera-que-amenaza-con-oscurecer-la-cop25/)
-
----
-
 ## TODO/TO BE ADDED
-
-Hay que incluir todo lo asociado a la turbiedad del grupo Bancard y FIP con los qeu ha comprado o participado en mineras y operaciones de pesca industrial. La de pesca más brígida es el caso de la compra de acciones de Exalmar la 6ta pesquera m.ás importante de Perú mientras estaba el juicio de la Haya.
 
 ### Sobre FIP y Bancard
 
