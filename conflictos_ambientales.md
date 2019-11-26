@@ -50,7 +50,9 @@ Oxiquim es una de las empresas responsables de la nube de gas tóxica que llevó
 
 Oxiquim es una empresa asociada a Piñera por su director general, el abogado Fernando Barros, quien ha sido repreentante de Piraña en distintos casos relacionados con sus abusos fiscales, además de ser el arquitecto detrás de la estrategía de la evación de impuestos mediante «empresas zombie» [REF](https://www.eldinamo.cl/nacional/2017/11/03/fernando-barros-el-tributarista-que-ayudo-a-eludir-millonarios-impuestos-a-pinera-y-leonidas-vial/). Además de este vínculo directo con el presidente, el abogado director general de la empresa fueron miembro del mismo buffet de abogados por 20 años junto al esposo de la ex ministra del interior y actual ministra de medio ambiente, Carolina Schmidt [REF](https://www.elmostrador.cl/noticias/pais/2018/08/29/el-precario-equilibrio-de-carolina-schmidt-tras-su-gestion-en-la-crisis-ambiental-de-quintero).
 
-[Más información sobre el caso de Puchuncavi y Quinteros](https://unegocios.uchile.cl/wp-content/uploads/2018/10/Analisis-caso-quinteros-y-puchuncabi.pdf) [Más noticias sobre OXIQUIM](https://www.eldesconcierto.cl/etiqueta/oxiquim/)
+[Más información sobre el caso de Puchuncavi y Quinteros](https://unegocios.uchile.cl/wp-content/uploads/2018/10/Analisis-caso-quinteros-y-puchuncabi.pdf)
+
+[Más noticias sobre OXIQUIM](https://www.eldesconcierto.cl/etiqueta/oxiquim/)
 
 ---
 
@@ -58,7 +60,7 @@ Oxiquim es una empresa asociada a Piñera por su director general, el abogado Fe
 
 El proyecto Alto Maipo busca construir dos centrales termoeléctricas de pasada en el sector alto del Río Maipo. Ubicado en el Cajón del Maipo, el río, el embalse del Yeso y Laguna Negra son parte de las principales fuentes de agua para la región metropolitana. El proyecto eléctrico afectará irremediablemente la calidad y cantidad de aguas cristalinas que pueden llegar a ser consumidas [REF](https://laderasur.com/articulo/por-que-el-proyecto-alto-maipo-amenaza-la-provision-de-agua-potable-para-la-ciudad-de-santiago/). Además de poner en riesgo diversos glaciares en el área y no contar con una evaluación de impacto ambiental acorde con el nivel de perjuicio que representa [REF](https://biblioteca.sernageomin.cl/opac/datafiles/14905_v3_pp_349_351.pdf).
 
-El proyecto tiene como principales inversores a AES-Gener (60%) [INFO](https://www.eldesconcierto.cl/etiqueta/aes-gener/), donde han trabajado históricamente miembros de los gabiente de Piñera como el biministro de energía y minería Laurence Golborne, y Antofagasta Minerals (40%), parte del grupo Luksic [REF](www.poderopedia.org/cl/empresas/Alto_Maipo#tab_perfil) de la billonaria familia de Andrónico Luksic.
+El proyecto tiene como principales inversores a AES-Gener (60%) [INFO](https://www.eldesconcierto.cl/etiqueta/aes-gener/), donde han trabajado históricamente miembros de los gabientes de Piñera como el biministro de energía y minería Laurence Golborne, y Antofagasta Minerals (40%), parte del grupo Luksic [REF](www.poderopedia.org/cl/empresas/Alto_Maipo#tab_perfil) de la billonaria familia de Andrónico Luksic.
 
 ---
 
