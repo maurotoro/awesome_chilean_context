@@ -11,13 +11,13 @@ Algunos ejemplos de conflictos ambientales en el país:
 
   * Al año 2015, 110 cuencas del país se encuentran con una demanda comprometida superior a su recarga natural, y por consiguiente se encuentran con sobre otorgamiento de derechos de agua [REF](https://www.interior.gob.cl/media/2015/04/recursos_hidricos.pdf).
 
-  * Para el año 2015 se vive una situación de escasez hídrica en 13 de las 15 regiones del país, en donde aproximadamente, 400.000 personas reciben agua potable por medio de camiones aljibes [REF](https://www.interior.gob.cl/media/2015/04/recursos_hidricos.pdf).
+  * Desde el año 2015 se vive una situación de escasez hídrica en 13 de las 15 regiones del país, en donde aproximadamente, 400.000 personas reciben agua potable por medio de camiones aljibes [REF](https://www.interior.gob.cl/media/2015/04/recursos_hidricos.pdf).
 
   * El INDH señala que de los 116 conflictos socioambientales existentes en Chile hasta el 2015, el 38% son por causa del sector productivo de energía [REF](mapaconflictos.indh.cl).
 
   * La Comisión Nacional de Enegría estima que al 2018 Chile tiene una capacidad instalada de generación eléctrica de 23,315 MW, con un nivel nacional de demanda energética máxima estimado en 10,529 MW [REF](https://www.cne.cl/wp-content/uploads/2019/04/Anuario-CNE-2018.pdf). A pesar de eso, se contabiliza un total de 114 proyectos de generación eléctrica que actualmente se encuentran en construcción [REF](https://mapaconflictos.indh.cl).
 
-  * Al año 2016, existen cinco zonas de sacrificio ambiental a lo largo del territorio nacional (Tocopilla, Mejillones, Huasco, Puchuncaví-Quintero, Coronel). Estás son entendidas como territorios de asentamiento humano devastados ambientalmente por causa del desarrollo industrial, vulnerando directamente derechos fundamentales de las personas (derecho a la vida, a la salud, a la educación, al trabajo, a la alimentación, a la vivienda, etc.)
+  * Existen cinco zonas de sacrificio ambiental a lo largo del territorio nacional (Tocopilla, Mejillones, Huasco, Puchuncaví-Quintero, Coronel). Estás son entendidas como territorios de asentamiento humano devastados ambientalmente por causa del desarrollo industrial, vulnerando directamente derechos fundamentales de las personas (derecho a la vida, a la salud, a la educación, al trabajo, a la alimentación, a la vivienda, etc.)
 [REF](https://www.terram.cl/2016/02/infografias-conoce-las-zonas-de-sacrificio-ambiental-del-pais-2/).
 
   * Es las zonas de sacrificio se concentran las 28 centrales termoeléctricas a carbón de Chile [REF](https://www.eldesconcierto.cl/2018/10/03/zonas-de-sacrificio-las-6-comunas-que-concentran-las-28-termoelectricas-a-carbon-en-chile/).
