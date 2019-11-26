@@ -19,11 +19,12 @@ A continuación se dan cuenta de algunos de los conflictos de intereses entre el
 ---
 
 ## OXIQUIM
-https://www.eldesconcierto.cl/etiqueta/oxiquim/
 
 Oxiquim es una de las empresas responsables de la nube de gas tóxica que llevó a más de 300 personas a ser hospitalizadas en el área de Quinteros y Puchuncaví [REF](http://olca.cl/articulo/nota.php?id=107406).
 
 Oxiquim es una empresa asociada a Piñera por su director general, el abogado Fernando Barros, quien ha sido repreentante de Piraña en distintos casos relacionados con sus abusos fiscales, además de ser el arquitecto detrás de la estrategía de la evación de impuestos mediante «empresas zombie» [REF](https://www.eldinamo.cl/nacional/2017/11/03/fernando-barros-el-tributarista-que-ayudo-a-eludir-millonarios-impuestos-a-pinera-y-leonidas-vial/). Además de este vínculo directo con el presidente, el abogado director general de la empresa fueron miembro del mismo buffet de abogados por 20 años junto al esposo de la ex ministra del interior y actual ministra de medio ambiente, Carolina Schmidt [REF](https://www.elmostrador.cl/noticias/pais/2018/08/29/el-precario-equilibrio-de-carolina-schmidt-tras-su-gestion-en-la-crisis-ambiental-de-quintero).
+
+[Más información](https://www.eldesconcierto.cl/etiqueta/oxiquim/)
 
 ---
 
@@ -43,17 +44,37 @@ Las explotaciones de esta mina han implicado daños irreparables al ecosistema l
 
 ---
 
-# Parque Tantauco
+## Parque Tantauco
 
-Terrenos que pertenecen a comunidades Huilliches, que tienen bajo su control desde 1826 cuando firman el tratado de Tantauco. El 2004 Piñera compra 115k hectáreas de bosque nativo en la isla grande de Chiloe, el 15% de la isla.La compra fue ampliamente cuestionada pues son
-No me queda claro como lo compro, fue a la CONAF?
-[Compra del parque](http://www.movimientodefendamoschiloe.cl/web/2017/06/07/como-pinera-se-compro/)
+Terrenos que pertenecen a comunidades Williche, que tienen bajo su control desde 1826 cuando firman el tratado de Tantauco. Estos terrenos son apropiados por el estado de manera irregular durante el comienzo del siglo XX y desde ese entonces comienzan a ser vendidos o licitados a privados. El 2004 Piñera compra 115k hectáreas de bosque nativo en la isla grande de Chiloe, cerca del 15% de la isla, al inversor estadounidense Jeremiah Henderson quien habría comprado los terrenos para explotación forestal [REF](http://www.movimientodefendamoschiloe.cl/web/2017/06/07/como-pinera-se-compro/) .
+
+Si bien el proyecto ha sido presentado como una obra de conservacionismo, la verdad es que las comunidades Williche han sido desplazadas y despojadas de sus territorios [REF](http://docs.wixstatic.com/ugd/3f1b41_1a9c992fbc0942b4af51940076d8f0de.pdf?fbclid=IwAR1rrZmuht-beQDQqY8Lrh0PjDDKcPyB-qWmwhRc32cXYDrE1z8MMCxA4uU_. )
+
+Además de la grave agresión a las comunidades y su historia, de la deslegitimación colonialista en la acción de compra y la falta de diálogo y falsas promesas de compensación. Quizás el acto político y poético de poner el nombre Tantauco, el nombre del tratado que otorgaba a las comunidades Williche el reconocimiento de la propiedad de sus tierras ante el nuevo estado Chileno, es la afrenta que deja más en claro el desinterés y cruel sentido de humor del presidente [REF](https://es.wikisource.org/wiki/Tratado_de_Tantauco).
+
+---
+
+## Exalmar (Perú)
+
+Una de las empresas pesqueras más importantes del Perú. Se dedica principalmente a la pesca extractivista y generación de harinas y aceites de pescado. El año 2012, durante su primer mandato y en medio de un litigio internacional por los límites fronterizos marinos entre Chile y Perú, una de las empresas asociadas a la familia de Piñera hacen compra de 9.1% de las acciones de la empresa [REF](https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-reportajes/2016/11/14/los-negocios-que-pinera-hizo-en-el-mar-peruano-durante-el-juicio-de-la-haya.shtml).
+
+La pesca por arrastre es uno de los mayores depredadores de los ecosistemas marinos, la empresa ha llegado a ser la cuarta potencia pesquera en Perú gracias a su eficiencia en el arrasamiento del medio marino. Además, el juicio ante la corte internacional, permitío a Piñera aumentar el espacio de explotación de las compañias pesqueras en las que tiene participación en el Perú. Una de las lecturas sobre esta participación tiene relación a la manera en que se regula la pesca industrial en Chile, que mediante la llamada Ley Longueira deja los recursos marítimos en manos de 7 familias [REF](https://www.elquintopoder.cl/medio-ambiente/el-legado-pesquero-de-sebastian-pinera/).
+
+La planta de Chimobote de Exalmar ha sido duramente cuestionada por su rol en la contaminación acústica y polución del aire en esta zona. El año 2018, luego de fuertes presiones de moviemientos sociales se tuvo que actualizar su matriz energética del cabrón al gas natural [REF](https://foronda.pe/pesquera-exalmar-presentara-plan-de-cambio-de-matriz-energetica-en-tres-semanas/).
+
+---
+
+## Central Costanera (Argentina)
+
+Mediante Bancard compra la central Costanera en Argentina el 2004 en medio de las crisis de las crisis del país vecino [REF](]https://www.cronista.com/impresageneral/Confirman-la-venta-de-Central-Costanera-20040326-0027.html). Esta es una de las mayores contaminantes de la Argentina y se le ha acusado de filtrar hidrocarburos de manera ielgal al Río de la Plata [REF](https://www.ambito.com/sorpresivo-allanamiento-la-central-termica-costanera-sur-una-denuncia-contaminacion-n3645782].
+
+Durante los casi cuatro años en que participa mediante Bancard y con la representación de Pablo Piñera como director titular de la central, llega a ser dueño del 70% de las acciones de la empresa. De las que se deshace durante el año 2007 al venderla a Endesa Chile  Al comienzo de su actual mandato, Sebastían intenta poner como embajador en Argentina a su hermano Pablo, el ex directo titular de la central luego de la compra de acciones por parte de Bancard, lo que genera un breve conflicto con las fuerzas políticas de oposición [REF](https://ciperchile.cl/2018/04/25/termoelectrica-costanera-la-breve-y-rentable-escala-de-los-hermanos-pinera-en-argentina/)
 
 ---
 
 ## Mina Dominga
 
-Durante el año 2009 se presenta un proyecto para extraer hierro en la región de Coquimbo, uno de los inversores era Fondo Inversión Privado (FIP) mediterráneo, con participación d
+Durante el año 2009 se presenta un proyecto para extraer hierro en la región de Coquimbo, uno de los inversores relevantes era Fondo Inversión Privado (FIP) mediterráneo, empresa gestionada por la offshore Bancard International de propiedad de la familia Piñera-Morel con sede en las islas Virgenes Britanicas.
 
 
 - [REF Dominga y Piñera](https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-reportajes/2017/02/27/los-desconocidos-intereses-de-la-familia-pinera-en-minera-dominga.shtml)
@@ -63,14 +84,6 @@ Durante el año 2009 se presenta un proyecto para extraer hierro en la región d
 - [REF Piñeda y bajada de termoelectrica barrancones](https://www.elmostrador.cl/noticias/pais/2017/02/27/pinera-y-su-familia-tenia-intereses-en-minera-dominga-cuando-negocio-bajada-de-central-termoelectrica-barrancones/)
 
 - [REF Dominga y COP25](https://www.elmostrador.cl/noticias/pais/2019/07/05/minera-dominga-el-fierro-caliente-para-pinera-que-amenaza-con-oscurecer-la-cop25/)
-
----
-
-## Exalmar
-
-Una de las empresas pesqueras más importantes del Perú. Se dedica principalmente a la pesca extractivista y generación de harinas y aceites de pescado. El año 2011, durante su primer mandato y en medio de un litigio internacional por los límites fronterizos marinos entre Chile y Perú, una de las empresas asociadas a la familia de Piñera hacen compra de 9.1% de las acciones de la empresa [REF](https://www.biobiochile.cl/especial/noticias/reportajes/reportajes-reportajes/2016/11/14/los-negocios-que-pinera-hizo-en-el-mar-peruano-durante-el-juicio-de-la-haya.shtml).
-
-La planta de Chimobote de la empresa ha sido duramente cuestionada por su rol en la contaminación acústica y polución del aire en la zona. El año 2018, luego de fuertes presiones de moviemientos sociales se tuvo que actualizar su matriz energética [REF](https://foronda.pe/pesquera-exalmar-presentara-plan-de-cambio-de-matriz-energetica-en-tres-semanas/)
 
 ---
 
@@ -85,6 +98,8 @@ Hay que incluir todo lo asociado a la turbiedad del grupo Bancard y FIP con los 
 - [Estructura de sociedades de Piñera Morel](http://www.clarinet.cl/nuevo/index.php/chile/politica/4121-las-sociedades-en-que-se-funde-la-fortuna-de-la-familia-pinera-morel)
 
 - [Otro desgloce de FIP y Bancard](http://www.economiaynegocios.cl/noticias/noticias.asp?id=280393)
+
+
 
 Puta, hay lotes más, donde está el tiempo!?
 
