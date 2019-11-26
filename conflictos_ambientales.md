@@ -22,12 +22,11 @@ Algunos ejemplos de conflictos ambientales en el país:
 
   * Es las zonas de sacrificio se concentran las 28 centrales termoeléctricas a carbón de Chile [REF](https://www.eldesconcierto.cl/2018/10/03/zonas-de-sacrificio-las-6-comunas-que-concentran-las-28-termoelectricas-a-carbon-en-chile/).
 
-  * A nivel lationamericano el [Observatorio de Conflictos Mineros de America Latina](https://www.ocmal.org/), a generado un mapa de 266 conflictos mineros [REF](https://mapa.conflictosmineros.net), con un total de 49 conflictos asociados a chile [REF]((https://mapa.conflictosmineros.net/ocmal_db-v2/conflicto/lista/02032300) el país con más conflictos en la lista.
+  * A nivel lationamericano el [Observatorio de Conflictos Mineros de America Latina](https://www.ocmal.org/), a generado un mapa de 266 conflictos mineros [REF](https://mapa.conflictosmineros.net), con un total de 49 conflictos asociados a chile [REF](https://mapa.conflictosmineros.net/ocmal_db-v2/conflicto/lista/02032300) el país con más conflictos en la lista.
 
 ---
 
 # Conflictos en relación con los gobiernos de Piñera
-
 
 El presidente Sebastián Piñera canceló la reunión de la COP25 iba a realizarse en Chile luego de una carta firmada por más de 40 eurodiputados repudiando la severa represión y violaciones a derechos humanos durante las protestas del pueblo chileno [REF](https://twitter.com/leilachaibi/status/1189182854191706115).
 
