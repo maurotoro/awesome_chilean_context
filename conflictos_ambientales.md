@@ -99,6 +99,9 @@ Hay que incluir todo lo asociado a la turbiedad del grupo Bancard y FIP con los 
 
 - [Otro desgloce de FIP y Bancard](http://www.economiaynegocios.cl/noticias/noticias.asp?id=280393)
 
+- [Más de sus offshore e inversiones en LA](https://ciperchile.cl/2016/11/25/pinera-offshore-las-inversiones-en-latinoamerica-de-su-sociedad-en-un-paraiso-fiscal/)
+
+- [Muchísima más info sobre las empresas asociadas a FIP, Bancard, Bancorp y otros](http://www.clarinet.cl/nuevo/index.php/chile/corrupcion/4008-el-pirana-en-su-laberinto-de-fraudes-y-mentiras)
 
 
 Puta, hay lotes más, donde está el tiempo!?
